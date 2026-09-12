@@ -1,4 +1,4 @@
-const CACHE='op-snag-list-v4-status';
+const CACHE='op-snag-list-v4-1-status';
 const PREFIX='op-snag-list-';
 const ASSETS=[
   './',
