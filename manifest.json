@@ -3,7 +3,7 @@
   "name": "OP Snag List",
   "short_name": "OP Snag List",
   "description": "Create and manage site snag reports with photos, rooms and resolved items.",
-  "start_url": "./?source=op-snag-list-v2",
+  "start_url": "./?source=op-snag-list-v4-6",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f4f6fb",
